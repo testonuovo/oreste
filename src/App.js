@@ -4,18 +4,14 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+        
+        <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
+        <h1>Oreste AI</h1>
+        <p>Assistente italiano online gratis senza installazione</p>
+        <p>Con Oreste AI puoi fare ricerche,scaricare programmi,fare meditazione,trovare programmi e altro</p>
+        <a href="https://testonuovo.github.io/oreste-ai/">
+          Prova Oreste AI
         </a>
       </header>
     </div>
