@@ -1,1 +1,4 @@
-.card-icon { font-size: 2rem; margin-bottom: 15px; } .cta.dark { background: #1e3a8a; color: white; margin-top: 15px; } .faq-section { padding: 85px 0; background: #ffffff; } .faq { max-width: 850px; margin: 40px auto 0; } .faq h3 { margin-top: 35px; margin-bottom: 10px; font-size: 1.2rem; } .faq p { margin-top: 0; color: #4b5563; } @media (max-width: 700px) { .faq-section { padding: 60px 0; } }
+.card-icon { font-size: 2rem; margin-bottom: 15px; } 
+.cta.dark { background: #1e3a8a; color: white; margin-top: 15px; } .faq-section { padding: 85px 0; background: #ffffff; } 
+.faq { max-width: 850px; margin: 40px auto 0; } .faq h3 { margin-top: 35px; margin-bottom: 10px; font-size: 1.2rem; } 
+.faq p { margin-top: 0; color: #4b5563; } @media (max-width: 700px) { .faq-section { padding: 60px 0; } }
